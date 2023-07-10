@@ -1,4 +1,4 @@
-# LongSentence
+# LongSentenceFYOU
 [TOC]
 ## 1
 In order for the structure to achieve the size and strength necessary to meet its purpose, architecture employs methods of support that, because they are based on physical laws, have changed little since people first discovered them--evenwhile building materials have changed dramatically.
@@ -49,3 +49,53 @@ At one time, the animals present in these fossil beds were assigned to various m
 Wild life zoologist Hulmut Buechner(1953), in reviewing the nature of biotic changes in Washington through recorded time, says that "since the early 1940s, the state has had more deer than at any other time in its history, the winter population fluctuating around approximately 320,000 deer ( mule and black-tailed deer), which will yield about 65,000 of either sex and any age annually for an indefinite period".
 
 **Wild life zoologist Hulmut Buechner(1953)**, (in reviewing the nature of biotic changes in Washington through recorded time), **says that "since the early 1940s, the state has had more deer than at any other time in its history**, (the winter population fluctuating around approximately 320,000 deer (mule and black-tailed deer)), (which will yield about 65,000 of either sex and any age annually for an indefinite period)".
+
+## 11
+The basic cultural requirements for the successful colonization of the Pacific islands include the appropriate boat-building, sailing, and navigation skills to get to the islands in the first place, domesticated plants and gardening skills suited to often marginal conditions, and a varied inventory of fishing implements and techniques.
+
+**The basic cultural requirements** (for the successful colonization of the Pacific islands) **include the appropriate boat-building, sailing, and navigation skills** (to get to the islands in the first place), **domesticated plants and gardening skills** (suited to often marginal conditions), **and a varied inventory of fishing implements and techniques**.
+
+## 12
+As Patrick Kirch, an American anthropologist, points out, rather than being brought by rafting South Americans, sweet potatoes might just have easily been brought back by returning Polynesian navigators who could have reached the west coast of South America.
+
+**As Patrick Kirch**, (an American anthropologist), **points out**, (rather than being brought by rafting South Americans), **sweet potatoes might just have easily been brought back** (by returning Polynesian navigators) (who could have reached the west coast of South America).
+
+## 13
+Only the last of these was suited at all to the continuous operating of machines, and although waterpower abounded in Lancashire and Scotland and ran grain mills as well as textile mills, it had one great disadvantage: streams flowed where nature intended them to, and water-driven factories had to be located on their banks whether or not the location was desirable for other reasons.
+
+**Only the last of these was suited at all to the continuous operating of machines, and** (although waterpower abounded in Lancashire and Scotland and ran grain mills as well as textile mills), **it had one great disadvantage: streams flowed** (where nature intended them to), **and water-driven factories had to be located on their banks** (whether or not the location was desirable for other reasons).
+
+## 14
+This “atmospheric engine,” invented by Thomas Savery and vastly improved by his partner, Thomas Newcomen, embodied revolutionary principles, but it was so slow and wasteful of fuel that it could not be employed outside the coal mines for which it had been designed.
+
+**This “atmospheric engine,”** (invented by Thomas Savery and vastly improved by his partner, Thomas Newcomen), **embodied revolutionary principles, but it was so slow and wasteful of fuel** (that it could not be employed outside the coal mines) (for which it had been designed).
+
+## 15
+At the same time, operators of the first printing presses run by steam rather than by hand found it possible to produce a thousand pages in an hour rather thanthirty.
+
+**At the same time, operators of the first printing presses** (run by steam) **rather than** (by hand) **found it possible** (to produce a thousand pages in an hour rather thanthirty).
+
+## 16
+Unlike in the Americas, where metallurgy was a very late and limited development, Africans had iron from a relatively early date, developing ingenious furnaces to produce the high heat needed for production and to control the amount of air that reached the carbon and iron ore necessary for making iron.
+
+**Unlike in the Americas**, (where metallurgy was a very late and limited development),**Africans had iron from a relatively early date**, (developing ingenious furnaces) (to produce the high heat needed for production) (and to control the amount of air) (that reached the carbon and iron ore) (necessary for making iron).
+
+## 17
+But detractors maintain that the terraces could also have been created by geological activity, perhaps related to the geologic forces that depressed the Northern Hemisphere far below the level of the south, in which case they have nothing whatever to do with Martian water.
+
+**But detractors maintain that** (the terraces could also have been created by geological activity), (perhaps related to the geologic forces) (that depressed the Northern Hemisphere far below the level of the south), (in which case they have nothing whatever to do with Martian water).
+
+## 18
+Scientists felt that they could get an idea of how long the extinctions took by determining how long it took to deposit this one centimeter of clay and they thought they could determine the time it took to deposit the clay by determining the amount of the element iridium (Ir) it contained.
+
+**Scientists felt that they could get an idea** (of how long the extinctions took) (by determining) (how long it took to deposit this one centimeter of clay) **and they thought they could determine the time** (it took to deposit the clay) (by determining the amount of the element iridium (Ir) it contained).
+
+## 19
+The onrushing water arising from these flash floods likely also formed the odd teardrop-shaped “islands” (resembling the miniature versions seen in the wetsand of our beaches at low tide) that have been found on the plains close to the ends of the outflow channels.
+
+**The onrushing water** (arising from these flash floods) **likely also formed the odd teardrop-shaped “islands”** ((resembling the miniature versions) (seen in the wetsand of our beaches at low tide)) (that have been found on the plains) (close to the ends of the outflow channels).
+
+## 20
+The exact role of other factors is much more difficult to pinpoint―for instance,Teotihuacán’s religious significance as a shrine, the historical situation in and around the Valley of Mexico toward the end of the first millennium B.C., the ingenuity and foresightedness of Teotihuacán’s elite, and, finally, the impact of natural disasters, such as the volcanic eruptions of the late first millennium B.C.
+
+**The exact role of other factors is much more difficult to pinpoint―for instance,Teotihuacán’s religious significance as a shrine, the historical situation** (in and around the Valley of Mexico) (toward the end of the first millennium B.C.), **the ingenuity and foresightedness of Teotihuacán’s elite, and, finally, the impact of natural disasters, such as the volcanic eruptions of the late first millennium B.C**.
