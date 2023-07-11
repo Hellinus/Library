@@ -41,3 +41,31 @@ When receiving a message from a friend, do you prefer to reply it instantly or w
 - turn my phone into do not disturb
 - receive notifications
 - annoy
+
+## 5
+Do you agree or disagree with the following statement? If a coworker violates company policies, we should report it to the supervisor.
+
+- prevent (future) losses
+- virus
+- bully
+- a positive (working) environment
+
+## 6
+Some people think that parents should control how their children save and spend their money; others think that children should be free to spend their money as they wish. Which view do you agree with? Explain why.
+
+- mixed feelings
+- waste on something useless
+- don't know how to spend them correctly
+- help children to be more independent
+- make a budget
+- best solution
+
+## 7
+Do you agree or disagree with the following statement? It is always best to state your honest opinion, even when you know that others disagree.
+
+- before a team
+- a good chance to challenge myself
+- improve by learning from suggestions
+- sensitive
+- get offended
+- ruin friendship
