@@ -1,5 +1,58 @@
 # Toefl Word List
 [TOC]
+## 26
+|Word|Meaning|
+|:---|:---|
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+|||
+## 25
+|Word|Meaning|
+|:---|:---|
+|uniformly|**adv:** *Synonyms & Similar Words: identically, even, perfectly.*|
+|unprecedented|**adv:** Having no precedent: *NOVEL, UNEXAMPLED*.|
+|urchin|**n:** Hedgehog.|
+|viable|**adj:** Capable of living; Capable of growing or developing; Capable of working, functioning, or developing adequately.|
+|aborigine|**n:** A member of the original people to inhabit an area especially as contrasted with an invading or colonizing people.|
+|abound|**v:** To be present in large numbers or in great quantity: *to be prevalent*.|
+|aestivation|**n:** The state or condition of torpidity or dormancy induced by the heat and dryness of summer.|
+|afield|**adj & adv:** To, in, or on the field; Away from home: *ABROAD*; Out of the way: *ASTRAY*.|
+|agrarian|**adj:** Of or relating to fields or lands or their tenure; Of, relating to, or characteristic of farmers or their way of life; **n:** A member of an agrarian party or movement.|
+|ally|**v:** To unite or form a connection or relation between: *ASSOCIATE*; To form or enter into an alliance; **n:**: A sovereign or state associated with another by treaty or league; One that is associated with another as a helper.|
+|analogous|**adj:** Similar or comparable to something else either in general or in some specific detail.|
+|antiquity|**n:** Ancient times; The quality of being ancient; Relics or monuments (such as coins, statues, or buildings) of ancient times; The people of ancient times.|
+|antler|**n:** One of the paired deciduous solid bony processes that arise from the frontal bone on the head of an animal of the deer family.|
+|aristocratic|**adj:** Belonging to, having the qualities of, or favoring aristocracy; Socially exclusive; Notably superior or excellent.|
+|arsenic|**n:** A solid chemical element that is used especially in wood preservatives, alloys, and semiconductors and is extremely toxic in both pure and combined forms; As2O3 or As4O6; **adj:** of, relating to, or containing arsenic especially with a valence of five.|
+|bellow|**v:** To make the loud deep hollow sound characteristic of a bull; To shout in a deep voice.|
+|boulder|**n:** A detached and rounded or much-worn mass of rock.|
+|bulge|**v:** To jut out: *SWELL*; To bend outward; To be filled to overflowing; **n:** A protuberant or swollen part or place; Sudden expansion.|
+|bushel|**n:** Any of various units of dry capacity; A container holding a bushel; A large quantity.|
+|cape|**n:** A point or extension of land jutting out into water as a peninsula or as a projecting point; A sleeveless outer garment or part of a garment that fits closely at the neck and hangs loosely over the shoulders.|
+|chloride|**n:** A compound of chlorine with another element or group.|
+|compaction|**n:** The act or process of compacting: the state of being compacted.|
+|conductor|**n:** One that conducts: *such as GUIDE, the leader of a musical ensemble, a material or object that permits an electric current to flow easily*.|
+|contention|**n:** A point advanced or maintained in a debate or argument; An act or instance of contending.|
+|corrode|**v:** To eat away by degrees as if by gnawing, especially: *to wear away gradually usually by chemical action*; To weaken or destroy gradually: *UNDERMINE*.|
+|cuneiform|**adj:** Having the shape of a wedge; Composed of or written in wedge-shaped characters; **n:** A cuneiform part; Cuneiform writing.|
+|cushion|**n:** A soft pillow or pad usually used for sitting, reclining, or kneeling; Something (such as an economic factor or a medical procedure) serving to mitigate the effects of disturbances or disorders; **v:** To seat or place on a cushion; To suppress by ignoring; To mitigate the effects of.|
+|defect|**n:** An imperfection or abnormality that impairs quality, function, or utility: *SHORTCOMING, FLAW*; **v:** To forsake one cause, party, or nation for another often because of a change in ideology.|
+|disguise|**v:** To change the customary dress or appearance of; To obscure the existence or true state or character of: *CONCEAL*; **n:** Apparel assumed to conceal one's identity or counterfeit another's; The act of disguising.|
+
 ## 24
 |Word|Meaning|
 |:---|:---|
