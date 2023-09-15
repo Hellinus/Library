@@ -1,6 +1,6 @@
 # Toefl Word List
 [TOC]
-## 26
+## 27
 |Word|Meaning|
 |:---|:---|
 |||
@@ -9,17 +9,41 @@
 |||
 |||
 |||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+
+## 26
+|Word|Meaning|
+|:---|:---|
+|dose|**n:** The measured quantity of a therapeutic agent to be taken at one time; A portion of a substance added during a process; An amount of something likened to a prescribed or measured quantity of medicine; **v:** To give a dose to, *especially: to give medicine to*; To divide into doses.|
+|endogenous|**adj:** Growing or produced by growth from deep tissue; Caused by factors inside the organism or system.|
+|enthusiasm|**n:** Strong excitement of feeling: *ARDOR*; Something inspiring zeal or fervor; Belief in special revelations of the Holy Spirit.|
+|extrinsic|**adj:** Not forming part of or belonging to a thing: *EXTRANEOUS*; Originating from or on the outside,*especially: originating outside a part and acting upon the part as a whole*; *EXTERNAL*.|
+|flask|**n:** A container often somewhat narrowed toward the outlet and often fitted with a closure.|
+|flush|**v:** To fly away suddenly; To cause (a bird) to flush; To expose or chase from a place of concealment; To flow and spread suddenly and freely; To glow brightly, *BLUSH*; To produce new growth; To cause to flow; To pour liquid over or through; To cause to blush; **n:** A hand of playing cards all of the same suit; A sudden flow (as of water); A sudden increase or expansion; A surge of emotion; A tinge of red: *BLUSH*; **adj:** Of a ruddy healthy color; Full of life and vigor: *LUSTY*; Filled to overflowing; Readily available: *ABUNDANT*; **adv:** *SQUARELY*; In a flush manner.|
+|foraminifera|**n:** Organisms that are foraminifers.|
+|fraction|**n:** A numerical representation (such as ³/₄, ⁵/₈, or 3.234) indicating the quotient of two numbers; A piece broken off: *FRAGMENT*; A discrete unit: *PORTION*; One of several portions (as of a distillate) separable by fractionation; *BIT, LITTLE*.|
+|geyser|**n:** A spring that throws forth intermittent jets of heated water and steam.|
+|gill|**n:** An organ (as of a fish) for obtaining oxygen from water.|
+|groove|**n:** A long narrow channel or depression; A fixed routine: *RUT*; An enjoyable or exciting experience; **v:** To make a groove in; To join by a groove; To perfect by repeated practice; To form a groove.|
+|herald|**n:** An official at a tournament of arms with duties including the making of announcements and the marshaling of combatants; An officer with the status of ambassador acting as official messenger between leaders especially in war; An official crier or messenger; One that conveys news or proclaims: *ANNOUNCER*; **v:** To give notice of: *ANNOUNCE*; *PUBLICIZE*.|
+|herbicide|**n:** An agent used to destroy or inhibit plant growth.|
+|hinder|**v:** To make slow or difficult the progress of: *HAMPER*; To hold back: *PREVENT, CHECK*; **adj:** Situated behind or in the rear: *POSTERIOR*.|
+|hoar|**adj:** *HOARY*; **n**.|
+|implicit|**adj:** Capable of being understood from something else though unexpressed: *IMPLIED*; Present but not consciously held or recognized; Not lessened by doubt: *ABSOLUTE, COMPLETE*; Involved in the nature or essence of something though not revealed, expressed, or developed: *POTENTIAL*.|
+|inconsistent|**adj:** Lacking consistency.|
+|inflate|**v:** To swell or distend with air or gas; To puff up: *ELATE*; To expand or increase abnormally or imprudently; To become inflated.|
+|informant|**n:** A person who gives information: such as *INFORMER*, one who supplies cultural or linguistic data in response to interrogation by an investigator.|
+|integrate|**v:** To form, coordinate, or blend into a functioning or unified whole: *UNITE*; To incorporate into a larger unit; To unite with something else; To end the segregation of and bring into equal membership in society or an organization.|
+|integrity|**n:** Firm adherence to a code of especially moral or artistic values: *INCORRUPTIBILITY*; An unimpaired condition: *SOUNDNESS*; The quality or state of being complete or undivided: *COMPLETENESS*.|
+|intent|**n:** A usually clearly formulated or planned intention: *AIM*; The act or fact of intending: *PURPOSE*; **adj:** Directed with strained or eager attention: *CONCENTRATED*; Having the mind, attention, or will concentrated on something or some end or purpose.|
+|lease|**n:** A contract by which one conveys real estate, equipment, or facilities for a specified term and for a specified rent; A piece of land or property that is leased; **v:** To grant by lease; To hold under a lease.|
+|lee|**n:** Protecting shelter; The side (as of a ship) or area that is sheltered from the wind; **adj:** Of, relating to, or being the side sheltered from the wind.|
+|legume|**n:** The dry fruit of plants of the legume family (such as peas or beans) that develops from a single carpel of a flower and usually splits into two halves with seeds attached to the seam of one half.|
+|manifest|**adj:** Readily perceived by the senses and especially by the sense of sight; Easily understood or recognized by the mind: *OBVIOUS*; **v:** To make evident or certain by showing or displaying; **n:** A list of passengers or an invoice of cargo for a vehicle (such as a ship or plane).|
+|marshy|**adj:** Resembling or constituting a marsh; Relating to or occurring in marshes.|
+|meteoric|**adj:** Of or relating to a meteor; Resembling a meteor in speed or in sudden and temporary brilliance; Of, relating to, or derived from the earth's atmosphere.|
+|monopoly|**n:** Exclusive ownership through legal privilege, command of supply, or concerted action; Exclusive possession or control; A commodity controlled by one party.|
+|mosque|**n:** A building used for public worship by Muslims.|
+
 ## 25
 |Word|Meaning|
 |:---|:---|
