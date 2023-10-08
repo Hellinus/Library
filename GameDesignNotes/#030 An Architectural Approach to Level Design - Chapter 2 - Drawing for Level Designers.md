@@ -210,14 +210,25 @@ In Mark Brown's video on the 2001 Game Boy Color *Zelda: Oracle* games, Brown de
 Like a flow chart, Brown’s dungeon graphs do not resemble the map of these levels, but describe structural relationships between gameplay elements. One of Brown’s major analysis criteria, linearity, is tracked by showing how many locks or keys are in front of a player at one time: multiple keys on the graph preceding one lock or one key before multiple locks implies open-ended exploration.
 
 ## DIGITAL LEVEL DESIGN TOOLS
+Eventually, non-digital sketches and diagrams of levels need to become interactive. Off-computer design is vital to establish project goals, but digital prototyping is what helps you *playtest* the level design.
 
-
+> *Playtesting* is when a designer plays a game to evaluate whether it fulfills its original design goals.
 
 ### CAD Programs
+- Digital drawings have great advantages in clarity over hand drawings, as shown in Figure. Clear drawings can convey information much better than rough ones.
+- CAD programs have features that force designers to work in logical ways that translate well into game engines:
+    - *snapping*
+    - *modular design* (this applies to level design is in the discovery of what pieces of a level will be utilized multiple times.)
 
 ### Digital Art Programs
+Rendering is the process by which a designer enhances a drawing with color and lighting information through artistic media—often watercolor paint or colored pencils.
+
+In the game industry, they are used to create concept art of game environments: often perspective drawings of what a level will look like. Some architects also use these tools to also render their 2D design drawings.
+
+Doing the same with level design diagrams, plans, sections, and elevations adds new information only found in concept art (for example: atmospheric progression).
 
 ### Engine Primitives and Placeholder Art
+
 
 ### 3D Modeling Programs
 
