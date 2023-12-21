@@ -1,7 +1,0 @@
-[http "https://github.com"]
-    proxy = http://127.0.0.1:7890
-[https "https://github.com"]
-    proxy = http://127.0.0.1:7890
-[user]
-    email = hellinus@outlook.com
-    name = Hellinus
